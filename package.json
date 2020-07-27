@@ -1,0 +1,12 @@
+{
+    "name": "SmartParks",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_rockpi-4b.json",
+            "credentialsFile": "flows_rockpi-4b_cred.json"
+        }
+    }
+}
